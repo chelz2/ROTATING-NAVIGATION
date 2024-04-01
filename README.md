@@ -1,1 +1,1 @@
-A simple rotating navitgation with a Burger open & close menu
+A simple rotating navitgation with a Burger icon for open & close menu 
